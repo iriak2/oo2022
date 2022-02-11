@@ -1,0 +1,9 @@
+public class Kodutoo_1 {
+
+    public static void main(String[] arg){
+		double arv1=Double.parseDouble(arg[0]);
+        double arv2=Double.parseDouble(arg[1]);
+
+		System.out.println(arv1 + " / " + arv2 + " Vastus: " + arv1/arv2);
+    }
+}
