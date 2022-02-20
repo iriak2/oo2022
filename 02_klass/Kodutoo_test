@@ -1,0 +1,6 @@
+public class Kodutoo_test{
+    public static void main(String[] args){
+        Kodutoo_2 x=new Kodutoo_2(3.0);
+        System.out.println(x.varvikogus());
+    }
+}
