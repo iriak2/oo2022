@@ -1,0 +1,11 @@
+public class Kodutoo_2 {
+
+  private double laius;
+  public Kodutoo_2(double uusLaius){
+      laius=uusLaius;
+  }
+  public double varvikogus(){
+      return (2.0 * laius);
+  }
+
+}
