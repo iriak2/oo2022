@@ -9,6 +9,6 @@ public class hobuTest {
     }
 
     @Test public void paevaHein(){
-        assertEquals(10, hobu2.paevaHein(500.0));
+        assertEquals(10, hobu2.paevaHein(500.0), 0.1);
     }
 }
